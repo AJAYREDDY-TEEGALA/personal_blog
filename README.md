@@ -6,3 +6,11 @@ from django.contrib.auth.decorators import login_required
 
 model --backend data collection point
 form -- frontend data collection point
+
+
+
+
+POST     ---send data through UI
+GET      ---Get the data
+PUT      ---update
+DELETE   ---
